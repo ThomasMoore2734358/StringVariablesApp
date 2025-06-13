@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Marcus\\source\\repos\\StringVariablesApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A06D3BE-BBB0-47B4-818F-073E629ABD72}|StringVariables\\StringVariables.csproj|c:\\users\\marcus\\source\\repos\\stringvariablesapp\\stringvariables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A06D3BE-BBB0-47B4-818F-073E629ABD72}|StringVariables\\StringVariables.csproj|solutionrelative:stringvariables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Marcus\\source\\repos\\StringVariablesApp\\StringVariables\\Program.cs",
+              "RelativeDocumentMoniker": "StringVariables\\Program.cs",
+              "ToolTip": "C:\\Users\\Marcus\\source\\repos\\StringVariablesApp\\StringVariables\\Program.cs",
+              "RelativeToolTip": "StringVariables\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T19:56:53.759Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
